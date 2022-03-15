@@ -22,14 +22,13 @@ tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: sans-serif;
   background-color: #b2bec3;
 }
 .obsah {
   width: 550px;
   background-color: #fff;
-  margin: auto;
-  margin-top: 150px;
+  margin: 150px auto;
   position: relative;
   border-radius: 10px;
   padding: 30px;
@@ -43,7 +42,6 @@ body {
 }
 .obsah img {
   width: 150px;
-  height: 150px;
   border: 3px solid #fff;
   border-radius: 50%;
   position: absolute;
